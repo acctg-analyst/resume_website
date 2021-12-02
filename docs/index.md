@@ -22,58 +22,48 @@ __Brigham Young University__, Rexburg, ID
 -Programming Minor
 - Full academic scholarship with 4.0 GPA
 
-## Related Experience
+### Experience
 
-### Internships
+`April 2020 - Present`
+__Bish's RV__, Meridian, ID
+__*Data Analyst*__
+- Built tools and reports to analyze actual and forecasted performance across 16 dealerships
+- Develop and generate ad hoc and formal reporting packages of financial performance
+- Assist in preparing and reconciling specific financial data
+- Provide help desk support and troubleshooting for financial reporting questions or issues
+- Using VBA code to streamline the medical, dental, and vision end of month reconciliations to decrease time from 2 days to 2 hours
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__*Accomplishments include*__
+-	Reduced account reconciliation time from 2 days to 10 minutes using VBA coding
+-	Programmed expense report reimbursement process to reduce time from 1 days to 5 minutes
+-	Automated financial and accounting daily reports and dashboards to improve accuracy and decrease time from 2 hours to 1 hour
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`November 2020 - April 2021`
+__Vivint__, Dallas, TX
+__*Security System Technician*__
+- Learned a strong work ethic by working 70-hour weeks
+- Improved under pressure problem solving during security installs
+- Developed strong communication skills during security system walkthroughs with customers
 
-### Data Science Lead
+### Volunteer Activities
+__Mission Service__, Cameroon/ Republic of Congo (French Speaking)
+`September 2017 - September 2019`
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Led groups of up to 30 volunteers, conducted weekly training meetings, followed up on goals, and created weekly progress reports
+- Increased effectiveness by teaching communication, problem-solving, and productivity skills
+- Helped manage overall financials for the entire country of Cameroon including around 40 volunteers and 2 regional teams
+- Planned, organized, and taught workshops on goal setting, relationship building, and leadership
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+### Leadership/Interests/Skills
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Eagle Scout
+- Captain of Rocky Mountain High School soccer team for 2 years
+- Class President at Rocky Mountain High School for 2 years
+- Highest Honors Academic Achievement, GPA 4.1
+- Proficient in MS Office Suite
+- Played piano for 17 years receiving a superior rating for 9 consecutive years
+- Fluent in French
 
 
 
