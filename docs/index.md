@@ -1,5 +1,5 @@
 ---
-layout: cv
+#layout: cv
 title: Cameron Taylor's Resume
 ---
 # Cameron Taylor
