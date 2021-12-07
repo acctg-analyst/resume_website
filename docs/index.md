@@ -39,7 +39,7 @@ __*Accomplishments include*__ <br>
 
 `November 2020 - April 2021`
 __Vivint__, Dallas, TX
-__*Security System Technician*__
+__*Security System Technician*__ <br>
 -Learned a strong work ethic by working 70-hour weeks <br>
 -Improved under pressure problem solving during security installs <br>
 -Developed strong communication skills during security system walkthroughs with customers <br>
