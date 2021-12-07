@@ -18,7 +18,7 @@ title: Cameron Taylor's Resume
 `2019-2023`
 __Brigham Young University__, Rexburg, ID
 - Bachelors of Science  
-- Accounting Major, Programming Minor
+- Accounting Major, Programming Minor <br>
 -Full academic scholarship with 4.0 GPA
 
 ### Experience
@@ -32,7 +32,7 @@ __*Data Analyst*__ <br>
 -Provide help desk support and troubleshooting for financial reporting questions or issues <br>
 -Using VBA code to streamline the medical, dental, and vision end of month reconciliations to decrease time from 2 days to 2 hours <br>
 
-__*Accomplishments include*__
+__*Accomplishments include*__ <br>
 -Reduced account reconciliation time from 2 days to 10 minutes using VBA coding <br>
 -Programmed expense report reimbursement process to reduce time from 1 days to 5 minutes <br>
 -Automated financial and accounting daily reports and dashboards to improve accuracy and decrease time from 2 hours to 1 hour <br>
