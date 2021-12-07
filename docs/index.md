@@ -15,9 +15,9 @@ title: Cameron Taylor's Resume
 
 ## Education
 
-`2019-2023`
-__Brigham Young University__, Rexburg, ID
-- Bachelors of Science 
+`2019-2023` <br>
+__Brigham Young University__, <br>  Rexburg, ID
+- Bachelors of Science  
 -Accounting Major
 -Programming Minor
 - Full academic scholarship with 4.0 GPA
