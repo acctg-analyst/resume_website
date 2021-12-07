@@ -1,5 +1,5 @@
 ---
-#layout: cv
+layout: cv
 title: Cameron Taylor's Resume
 ---
 # Cameron Taylor
@@ -15,8 +15,8 @@ title: Cameron Taylor's Resume
 
 ## Education
 
-`2019-2023` <br>
-__Brigham Young University__, <br>  Rexburg, ID
+`2019-2023`
+__Brigham Young University__, Rexburg, ID
 - Bachelors of Science  
 -Accounting Major
 -Programming Minor
