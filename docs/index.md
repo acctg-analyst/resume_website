@@ -21,7 +21,7 @@ __Brigham Young University__, Rexburg, ID
 - Accounting Major, Programming Minor <br>
 Full academic scholarship with 4.0 GPA
 
-### Experience
+## Experience
 
 `April 2020 - Present`
 __Bish's RV__, Meridian, ID
@@ -44,7 +44,7 @@ __*Security System Technician*__ <br>
 -Improved under pressure problem solving during security installs <br>
 -Developed strong communication skills during security system walkthroughs with customers <br>
 
-### Volunteer Activities
+## Volunteer Activities
 __Mission Service__, Cameroon/ Republic of Congo (French Speaking)
 `September 2017 - September 2019`
 
@@ -53,7 +53,7 @@ __Mission Service__, Cameroon/ Republic of Congo (French Speaking)
 -Helped manage overall financials for the entire country of Cameroon including around 40 volunteers and 2 regional teams <br>
 -Planned, organized, and taught workshops on goal setting, relationship building, and leadership <br>
 
-### Leadership/Interests/Skills
+## Leadership/Interests/Skills
 
 
 -Eagle Scout <br>
