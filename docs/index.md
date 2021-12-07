@@ -19,7 +19,7 @@ title: Cameron Taylor's Resume
 __Brigham Young University__, Rexburg, ID
 - Bachelors of Science  
 - Accounting Major, Programming Minor <br>
-Full academic scholarship with 4.0 GPA
+- Full academic scholarship with 4.0 GPA
 
 ## Experience
 
